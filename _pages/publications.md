@@ -6,6 +6,10 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
+**Cason, A.**, Lloyd-Ronning, N., Cheng, R.  
+Using COSMIC Population Synthesis Code to Investigate How Metallicity Affects
+Massive Stars in Interacting Binaries.  
+*arXiv:2405.20396*
 
 <!-- _pages/publications.md -->
 
